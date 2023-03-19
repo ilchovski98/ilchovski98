@@ -37,13 +37,14 @@
 
 <br>
 
-## Contact me 😇
+## Let's have a chat 🍻
 <p>
+  <a href = "https://twitter.com/Nikola_ilchovsk"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> </a>
+
   <a href = "https://www.linkedin.com/in/nikola-ilchovski-52940a176/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 </p>
 
 #### Pinned Repositories
-
 
 <a href="https://github.com/ilchovski98/ERC20-bridge-smart-contract">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ilchovski98&repo=ERC20-bridge-smart-contract&theme=buefy" />
