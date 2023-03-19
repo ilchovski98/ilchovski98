@@ -51,7 +51,7 @@
 
 <br>
 
-<a href="https://github.com/ilchovski98"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ilchovski98&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ilchovski's github stats" /></a> | <a href="https://github.com/ilchovski98"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilchovski98&exclude_repo=Small_Projects&langs_count=6&layout=compact&theme=buefy&hide_border=true" /></a> |
+<a href="https://github.com/ilchovski98"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ilchovski98&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ilchovski's github stats" /></a> | <a href="https://github.com/ilchovski98"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilchovski98&exclude_repo=shopify-titan-smart-cable&langs_count=6&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <br>
