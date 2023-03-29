@@ -54,8 +54,6 @@
 
 <br>
 
-<p style="margin-top: 10px">
-  <a href="https://github.com/ilchovski98/ERC20-bridge-backend">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ilchovski98&repo=ERC20-bridge-backend&theme=buefy" />
-  </a>
-</p>
+<a href="https://github.com/ilchovski98/ERC20-bridge-backend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ilchovski98&repo=ERC20-bridge-backend&theme=buefy" />
+</a>
