@@ -44,6 +44,6 @@
 
 #### Pinned Repositories
 
-<a href="https://github.com/ilchovski98/audits">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ilchovski98&repo=ERC20-bridge-smart-contract&theme=buefy" />
+<a href="https://github.com/ilchovski98/portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ilchovski98&repo=portfolio&theme=buefy" />
 </a>
